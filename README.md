@@ -10,6 +10,7 @@ This was my first full blown website that I had to build for a customer but also
 
 **Home Screen**
 The home screen gives a quick overview of what this business is about. There is a banner that changes to showcase the different upcoming events or announcements. It also offers links to contact the business as well as view the calender to see when they have availability. 
+<img width="1258" alt="KilnTimeHome" src="https://user-images.githubusercontent.com/25159870/150695500-45e3a943-e23a-40a7-81b0-acf25cf1de47.png">
 
 **About Us Screen**
 The About Us screen goes more in depth as to what this business is and a history of how it got started. It has the address of the buisness as well as google map showing how to get there.
@@ -27,3 +28,4 @@ The Calender was a link to the business google calendar. It allowed the business
 The frequently asked questions page listed the most commonly asked questions and responses. It also included contact information to contact the business with further questions. 
 
 
+<img width="1258" alt="KilnTimeHome" src="https://user-images.githubusercontent.com/25159870/150695500-45e3a943-e23a-40a7-81b0-acf25cf1de47.png">
