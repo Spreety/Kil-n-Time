@@ -2,11 +2,11 @@
 Website created for a ceramic painting business
 
 **Description:**
-I created this website for a small ceramic painting business that was just starting up. They needed a website that would reflect on their fun, creative business. This website needed to provide contact information but also needed to show information such as hours and an explanation of how their business worked. 
+I created this website for a small ceramic painting business that was just starting up. They needed a website reflecting on their fun and creativity. This website needed to provide contact information but also needed to show information such as hours and an explanation of how their business worked. 
 
-This was a fun website to work on. I was able to not only create their website, but I was able to design their logo as well. Both the logo and website really displayed the fun and creative atmospher of this business. 
+This was a fun website to work on. I was able to not only create their website, but I was able to design their logo as well. Both the logo and website really displayed the fun and creative atmosphere of this business. 
 
-This was my first full blown website that I had to build for a customer but also deploy. It was a great learning experience. Unfortunately, this small business was not able to make it and shut their doors after 1 year of business. The website was removed upon their businsess closing and is no longer live. 
+This was my first full blown website that I had to build and deploy for a customer. It was a great learning experience. Unfortunately, this small business was not able to make it and shut their doors after 1 year of business. The website was removed upon their businsess closing and is no longer live. 
 
 **Home Screen**
 The home screen gives a quick overview of what this business is about. There is a banner that changes to showcase the different upcoming events or announcements. It also offers links to contact the business as well as view the calender to see when they have availability. 
